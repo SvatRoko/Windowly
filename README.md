@@ -6,7 +6,7 @@ Windowly is an open-source Windows 11 utility that remembers window size and pos
 
 Extract the entire self-contained win-x64 ZIP into a permanent folder and run `Windowly.exe`; no separate .NET installation is required. Open Notepad, position and resize it, then right-click the Windowly tray icon and select **Remember current window**. Close and reopen Notepad to try restoration. Capture again to update its rule.
 
-**Settings** lists saved applications, supports deleting rules, and offers **Start at sign-in**. Closing Settings keeps Windowly running; **Exit** stops it.
+**Settings** opens a customization interface with **Window layouts**, **Taskbar**, and **Notification panel** navigation. Window layouts lists saved applications with geometry and monitor details, supports remembering the previous application window and deleting rules, and offers **Start Windowly at sign-in**. Taskbar and Notification panel are preview pages only; they do not change Windows behavior. Closing Settings keeps Windowly running; **Exit** stops it.
 
 ## Build and package
 

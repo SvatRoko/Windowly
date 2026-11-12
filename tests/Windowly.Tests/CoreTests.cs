@@ -1,3 +1,4 @@
+using System.IO;
 using Windowly;
 using Xunit;
 public class CoreTests {
